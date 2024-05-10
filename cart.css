@@ -1,0 +1,14 @@
+h1{
+	border: solid black;
+	background-color: yellow;
+	color: darkred;
+	text-align: center;
+	border-radius: 40px;
+	height: 70px;
+	padding-top: 30px;
+
+}
+table,th,tr{
+	border: 3px solid black;
+	margin-left: 200px;
+}

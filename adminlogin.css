@@ -1,0 +1,57 @@
+.reg{
+border: solidblack;
+background-color: black;
+padding-left: 100px;
+padding-right: 50px;
+padding-top: 80px;
+padding-bottom: 80px;
+margin-top: 100px;
+margin-bottom: 400px;
+margin-right: 450px;
+margin-left: 500px;
+border-radius: 50px;
+font-family: math;
+color: white;
+
+
+}
+body{
+	background-image: url("login.jpg");
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+  color: white;
+  margin-left: 20px;
+  
+}
+a{
+  color: white;
+  text-decoration: none;
+ 
+
+}
+.ln{
+  margin-right: 35px;
+ 
+
+}
+.lpa{
+margin-right: 40px;
+
+
+}
+input{
+  margin: 7px;
+}
+.button{
+  width: 200px;
+  margin-top: 10px;
+  border-radius: 50px;
+  margin-bottom: px;
+  margin-left: 35px;
+
+}
